@@ -4,7 +4,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/felipecabuto/felipecabuto/master/astronautaDev.gif" width="200px"/>
 
-#### <em>My name is Felipe Cabuto and I'm a Front-end developer with background in digital marketing. <img src="https://raw.githubusercontent.com/felipecabuto/felipecabuto/master/PC.gif" height="20px"/> I'm passionate about innovation and I'm guided for finding creative solutions so I decided to swift my career to become a Web developer. <img src="https://raw.githubusercontent.com/felipecabuto/felipecabuto/master/Rocket.gif" height="18px"/> “Mindset: Being passionate, self-driven and working with little supervision towards a common team or company purpose.” 🧠 </em>
+#### <em>My name is Felipe Cabuto and I'm a Front-end developer with background in digital marketing. <img src="https://raw.githubusercontent.com/felipecabuto/felipecabuto/master/PC.gif" height="20px"/> I'm passionate about innovation and I'm guided for finding creative solutions so I decided to swift my career to become a Web developer. <img src="https://raw.githubusercontent.com/felipecabuto/felipecabuto/master/Rocket.gif" height="18px"/> Mindset: Being passionate, self-driven and working with little supervision towards a common team or company purpose. 🧠 </em>
 
 ## :hammer_and_wrench: Technologies & Tools
 
