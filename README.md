@@ -4,7 +4,8 @@
 
 <img align="right" src="https://raw.githubusercontent.com/felipecabuto/felipecabuto/master/astronautaDev.gif" width="200px"/>
 
-#### <em>My name is Felipe Cabuto and I'm a Front-end developer with background in digital marketing. <img src="https://raw.githubusercontent.com/felipecabuto/felipecabuto/master/PC.gif" height="20px"/> I'm passionate about innovation and I'm guided for finding creative solutions so I decided to swift my career to become a Web developer. <img src="https://raw.githubusercontent.com/felipecabuto/felipecabuto/master/Rocket.gif" height="18px"/> Mindset: Being passionate, self-driven and working with little supervision towards a common team or company purpose. 🧠 </em>
+#### <em>My name is Felipe Cabuto and I'm a Front-end developer with background in digital marketing. <img src="https://raw.githubusercontent.com/felipecabuto/felipecabuto/master/PC.gif" height="20px"/> I'm passionate about innovation and I'm guided for finding creative solutions so I decided to swift my career to become a Web developer. <img src="https://raw.githubusercontent.com/felipecabuto/felipecabuto/master/Rocket.gif" height="18px"/></em>
+
 
 ## :hammer_and_wrench: Technologies & Tools
 
@@ -61,3 +62,5 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+#### <em>"Being passionate, self-directed and working with little supervision towards a common team or company goal is the golden mindset nowadays." 🧠 (Felipe Cabuto)</em>
