@@ -63,4 +63,4 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-##### <em>"Being passionate, self-directed and working with little supervision towards a common team or company goal is the golden mindset nowadays." 🧠 (Felipe Cabuto)</em>
+##### <cite>"Being passionate, self-directed and working with little supervision towards a common team or company goal is the golden mindset nowadays." 🧠</cite>
