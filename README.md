@@ -9,7 +9,7 @@
 - 📚 Advertising with solid knowledge of **UX/UI Design** and background in Digital Marketing
 - 📫 How to reach me: https://www.linkedin.com/in/felipecabuto | felipecabuto@gmail.com
 - 😍 I value: healthy life, study routine, meditate, technology, pair programming, books, podcast, cook, travel, bike, series
-- 🧠 Mindset: Owner spirit, being colaborative, self-directed and working with little supervision towards a common team or company goal
+- 🧠 Mindset: Owner spirit, being collaborative, self-directed and work towards the team's goals
 
 ## :hammer_and_wrench: Technologies & Tools
 
