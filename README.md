@@ -8,8 +8,8 @@
 - 👨‍🎓 I am Undergraduate - Bachelor’s degree in Advertising and Marketing
 - 📚 Advertising with solid knowledge of **UX/UI Design** and background in Digital Marketing
 - 📫 How to reach me: https://www.linkedin.com/in/felipecabuto | felipecabuto@gmail.com
-- 😍 Things I value: healthy food, exercise routine, study routine, meditate, technology, pair programming, books, podcast, cook, travel, bike, series
-- 🧠 Mindset: <i>Being passionate, self-directed and working with little supervision towards a common team or company goal is the golden mindset nowadays</i>
+- 😍 I value: healthy life, study routine, meditate, technology, pair programming, books, podcast, cook, travel, bike, series
+- 🧠 Mindset: <i>Being passionate, self-directed and working with little supervision towards a common team or company goal</i>
 
 ## :hammer_and_wrench: Technologies & Tools
 
@@ -68,5 +68,3 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-##### <i>"Being passionate, self-directed and working with little supervision towards a common team or company goal is the golden mindset nowadays." 🧠</i>
