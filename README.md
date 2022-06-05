@@ -1,4 +1,4 @@
-# <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> Hello World, I'm Felipe <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# 🌎 Hello World, I'm Felipe 👋
 
 ## [![Linkedin Badge](https://img.shields.io/badge/-felipecabuto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/felipecabuto/) [![Gmail Badge](https://img.shields.io/badge/-felipecabuto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipecabuto@gmail.com)](mailto:felipecabuto@gmail.com)
 
