@@ -3,7 +3,7 @@
 ## [![Linkedin Badge](https://img.shields.io/badge/-felipecabuto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/felipecabuto/) [![Gmail Badge](https://img.shields.io/badge/-felipecabuto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipecabuto@gmail.com)](mailto:felipecabuto@gmail.com)
 
 - 🚀 I'm passionate about innovation and I'm proactive and guided for finding creative solutions
-- ⚛ I'm a **Front-end Developer**, building projects with **React**, **Vue** and **Sass** actually
+- ⚛ I'm a **Front-end Developer**, building projects with **React** and **Sass** actually
 - 👨‍💻 I started my studies in coding through the **Certified Tech Developer** (Full Stack Web Development course by **Digital House**)
 - 👨‍🎓 I am Undergraduate - Bachelor’s degree in Advertising and Marketing
 - 📚 Advertising with solid knowledge of **UX/UI Design** and background in Digital Marketing
