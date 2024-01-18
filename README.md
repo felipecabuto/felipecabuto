@@ -10,7 +10,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/felipecabuto | felipecabuto@gmail.com
 - 😍 I value: healthy life, study routine, meditate, technology, pair programming, books, podcast, cook, travel, bike, series
 - 🧠 Mindset: Owner spirit, being collaborative, self-directed and work towards the team's goals
-- ☕️ Have a coffee and get an overview of my latest projects here: https://felipecabuto.github.io/portfolio/
 
 ## :hammer_and_wrench: Technologies & Tools
 
