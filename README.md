@@ -1,14 +1,14 @@
 ## Hello World, I'm Felipe!
 
-## [![Linkedin Badge](https://img.shields.io/badge/-felipecabuto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/felipecabuto/) [![Gmail Badge](https://img.shields.io/badge/-felipecabuto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipecabuto@gmail.com)](mailto:felipecabuto@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511982868696)
+## [![Linkedin Badge](https://img.shields.io/badge/-felipecabuto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/felipecabuto/) [![Gmail Badge](https://img.shields.io/badge/-felipecabuto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipecabuto@gmail.com)](mailto:felipecabuto@gmail.com)
 
 - 🚀 I'm passionate about innovation and I'm proactive and guided for finding creative solutions
 - ⚛ I'm a **Back-end Developer**, building projects with **Java Spring Boot** actually
 - 👨‍💻 I started my studies in coding through the **Certified Tech Developer** (Full Stack Web Development course by **Digital House**)
 - 👨‍🎓 I am Undergraduate - Bachelor’s degree in Advertising and Marketing
 - 📚 Advertising with solid knowledge of **UX/UI Design** and background in Digital Marketing
-- 📫 How to reach me: https://www.linkedin.com/in/felipecabuto | felipecabuto@gmail.com
-- 😍 I value: healthy life, study routine, meditate, technology, pair programming, books, podcast, cook, travel, bike, series
+- 📫 How to reach me: https://www.linkedin.com/in/felipecabuto | felipecabuto@gmail.com | [whatsapp](https://api.whatsapp.com/send?phone=5511982868696)
+- 💎 I value: healthy life, study routine, meditate, technology, pair programming, books, podcast, cook, travel, bike, series
 - 🧠 Mindset: Owner spirit, being collaborative, self-directed and work towards the team's goals
 
 ## :hammer_and_wrench: Technologies & Tools
