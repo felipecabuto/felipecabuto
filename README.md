@@ -1,9 +1,9 @@
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24"> Hello World, I'm Felipe <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+## Hello World, I'm Felipe!
 
 ## [![Linkedin Badge](https://img.shields.io/badge/-felipecabuto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/felipecabuto/) [![Gmail Badge](https://img.shields.io/badge/-felipecabuto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipecabuto@gmail.com)](mailto:felipecabuto@gmail.com)
 
 - 🚀 I'm passionate about innovation and I'm proactive and guided for finding creative solutions
-- ⚛ I'm a **Back-end Developer**, building projects with **Java** and **Spring** actually
+- ⚛ I'm a **Back-end Developer**, building projects with **Java Spring Boot** actually
 - 👨‍💻 I started my studies in coding through the **Certified Tech Developer** (Full Stack Web Development course by **Digital House**)
 - 👨‍🎓 I am Undergraduate - Bachelor’s degree in Advertising and Marketing
 - 📚 Advertising with solid knowledge of **UX/UI Design** and background in Digital Marketing
