@@ -7,7 +7,7 @@
 - 👨‍💻 I started my studies in coding through the **Certified Tech Developer** (Full Stack Web Development course by **Digital House**)
 - 👨‍🎓 I am Undergraduate - Bachelor’s degree in Advertising and Marketing
 - 📚 Advertising with solid knowledge of **UX/UI Design** and background in Digital Marketing
-- 📫 How to reach me: [linkedin.com/in/felipecabuto](https://www.linkedin.com/in/felipecabuto) | felipecabuto@gmail.com | [whatsapp](https://api.whatsapp.com/send?phone=5511982868696)
+- 📫 How to reach me: [linkedin.com/in/felipecabuto](https://www.linkedin.com/in/felipecabuto) | felipecabuto@gmail.com | [WhatsApp](https://api.whatsapp.com/send?phone=5511982868696)
 - 💎 I value: healthy life, study routine, meditate, technology, pair programming, books, podcast, cook, travel, bike, series
 - 🧠 Mindset: Owner spirit, being collaborative, self-directed and work towards the team's goals
 
