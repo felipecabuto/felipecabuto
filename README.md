@@ -1,6 +1,8 @@
 ## Hello World, I'm Felipe!
 
-## [![Linkedin Badge](https://img.shields.io/badge/-felipecabuto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/felipecabuto/) [![Gmail Badge](https://img.shields.io/badge/-felipecabuto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipecabuto@gmail.com)](mailto:felipecabuto@gmail.com)
+## [![Linkedin Badge](https://img.shields.io/badge/-felipecabuto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/felipecabuto/) [![Gmail Badge](https://img.shields.io/badge/-felipecabuto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipecabuto@gmail.com)](mailto:felipecabuto@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://api.whatsapp.com/send?phone=5511982868696)
+
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
 - 🚀 I'm passionate about innovation and I'm proactive and guided for finding creative solutions
 - ⚛ I'm a **Back-end Developer**, building projects with **Java Spring Boot** actually
